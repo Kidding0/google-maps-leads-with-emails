@@ -1,0 +1,6 @@
+name,category,phone,website,email,emailStatus,city,rating,reviewsCount,searchQuery
+Bright Smile Dental (example),Dentist,+1 512-555-0101,https://brightsmile.example.com,hello@brightsmile.example.com,found,Austin,4.8,212,dentist in Austin TX
+Lakeview Family Dentistry (example),Dentist,+1 512-555-0102,https://lakeview.example.com,,not_found,Austin,4.6,98,dentist in Austin TX
+Capitol Dental Care (example),Dentist,+1 512-555-0103,,,no_website,Austin,4.2,35,dentist in Austin TX
+South Congress Orthodontics (example),Orthodontist,+1 512-555-0104,https://facebook.com/example,,no_own_website,Austin,4.9,61,dentist in Austin TX
+Hill Country Dental Studio (example),Dentist,+1 512-555-0105,https://hcds.example.com,office@hcds.example.com,found,Austin,4.7,140,dentist in Austin TX
